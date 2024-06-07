@@ -1,0 +1,13 @@
+name: demo
+channels:
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - scikit-learn
+    - notebook
+    - pandas
+    - scipy
+    - jupyterlab
+    - plotly
+    - pip
